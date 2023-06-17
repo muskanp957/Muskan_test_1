@@ -23,7 +23,8 @@ The process takes the following steps: 1.A change is made to the site
 2.The entire virtual DOM gets updated (no changes are made to the webpage at this stage)
 3.The updated virtual DOM gets compared to its previous state. React then figures out which objects have changed.
 4.The changed objects, and the changed objects only, get updated on the real DOM.
-5.Changes in the real DOM cause the screen to change and update to the new state.
+5.Changes in the real DOM cause the screen to change and update to the new state
+  
 Que4.Mention some difference between MYSQL and No SQL?
 Ans4.MySQL is a relational database. It’s because the data in MySQL is saved in different tables, and relationships are made using primary keys or foreign keys.
 Both small and large businesses can profit from MySQL. Because of its speed and it is easy to use. It is a very powerful application in and of itself, handling a significant percentage of the functionality of the most costly and complex database products.
@@ -33,6 +34,7 @@ The main applications for NoSQL databases are real-time web applications and big
 MySQL is a relational database with a tabular design. NoSQL, on the other, has a document-based design and is not relational in nature.
 MySQL has stockpiled a database that covers a major section of the IT market, whereas NoSQL databases are relatively new and are still growing in popularity among big IT firms.
 The NoSQL database has arrived recently and has a relatively small community in comparison to the MySQL database, which has a significantly large community and a stable business.
+  
 Que5. Explain any one DBMS technology in your own words?
 A database management system (DBMS) is a computer program designed to manage a large amount of structured data, and run operations on the desired data requested by the users. the best example of DBMS is Banking. All the transactions that take place are based on a defined software program which keeps track of all the data.A collection of information which is managed such that it can be updated and easily accessed is called a database. A software package which can be used to manipulate, validate and retrieve this database is called a Database Management System.
 Data Manipulation Languages (DML) – This is a programming language used to insert or modify the data present in a database  These are of two types: SQL and DDL.
